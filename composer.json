@@ -1,8 +1,8 @@
 {
-    "name": "sabithahmd/db-config",
+    "name": "sabithahmd/db-config-command",
     "type": "wp-cli-package",
     "description": "",
-    "homepage": "https://github.com/sabithahmd/db-config",
+    "homepage": "https://github.com/sabithahmd/db-config-command",
     "license": "MIT",
     "authors": [{
         "name": "Sabith Ahammad",
@@ -55,6 +55,6 @@
         ]
     },
     "support": {
-        "issues": "https://github.com/sabithahmd/db-config/issues"
+        "issues": "https://github.com/sabithahmd/db-config-command/issues"
     }
 }
